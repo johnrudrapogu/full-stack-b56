@@ -5,7 +5,7 @@ import Home from './Component/Home';
 import NotFound from './Component/NotFound';
 import Contact from './Pages/Contact';
 import User from './Pages/User';
-import {BrowserRouter as Router, Routes, Route} from 'react-router';
+import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import './App.css'
 
 function App() {
